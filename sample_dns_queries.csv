@@ -1,0 +1,16 @@
+timestamp,client_id,query_name,query_type
+2026-10-23T10:00:00,192.0.2.10,api.example.com,A
+2026-10-23T10:00:10,192.0.2.10,cdn.example.com,A
+2026-10-23T10:00:20,192.0.2.10,mail.example.org,MX
+2026-10-23T10:01:00,192.0.2.10,api.example.com,A
+2026-10-23T10:01:05,192.0.2.10,api.example.com,A
+2026-10-23T10:01:10,192.0.2.10,api.example.com,A
+2026-10-23T10:01:15,192.0.2.10,api.example.com,A
+2026-10-23T10:01:20,192.0.2.10,api.example.com,A
+2026-10-23T10:02:00,192.0.2.10,login-check-example.xyz,A
+2026-10-23T10:02:15,192.0.2.10,x7q9m2k8p4v6z1.top,A
+2026-10-23T10:02:30,192.0.2.10,a8f3k9m2q7w1z6.xyz,A
+2026-10-23T10:03:00,192.0.2.10,docs.example.com,AAAA
+2026-10-23T10:03:10,192.0.2.10,cdn.example.com,A
+2026-10-23T10:04:00,192.0.2.10,new-service.example.net,A
+2026-10-23T10:04:10,192.0.2.10,x7q9m2k8p4v6z1.top,A
