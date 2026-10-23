@@ -29,6 +29,12 @@ investigation.
 - CSV
 - unittest
 
+<img width="1918" height="853" alt="DNS-1" src="https://github.com/user-attachments/assets/fa6b0688-108e-4a45-aaae-4f6e394a5064" />
+<img width="1920" height="858" alt="DNS-2" src="https://github.com/user-attachments/assets/74cb2bf6-a47d-4cf1-9ac1-ec7ba74ad124" />
+<img width="1919" height="854" alt="DNS-3" src="https://github.com/user-attachments/assets/1798c523-0ce0-4207-bf98-06d5e3ac3996" />
+<img width="1917" height="861" alt="DNS-4" src="https://github.com/user-attachments/assets/c24cb416-0973-47db-b6d7-39e5852c0e97" />
+
+
 ## Project Structure
 
 ```text
