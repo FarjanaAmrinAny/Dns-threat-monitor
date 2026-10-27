@@ -41,10 +41,12 @@ The project follows a simple analysis workflow:
 
 
 Automated testing
-<img width="1918" height="853" alt="DNS-1" src="https://github.com/user-attachments/assets/fa6b0688-108e-4a45-aaae-4f6e394a5064" />
-<img width="1920" height="858" alt="DNS-2" src="https://github.com/user-attachments/assets/74cb2bf6-a47d-4cf1-9ac1-ec7ba74ad124" />
-<img width="1919" height="854" alt="DNS-3" src="https://github.com/user-attachments/assets/1798c523-0ce0-4207-bf98-06d5e3ac3996" />
-<img width="1917" height="861" alt="DNS-4" src="https://github.com/user-attachments/assets/c24cb416-0973-47db-b6d7-39e5852c0e97" />
+
+<img width="1918" height="853" alt="DNS-1" src="https://github.com/user-attachments/assets/dd8dc4d9-0c61-4254-85ed-2945ddb04746" />
+<img width="1920" height="858" alt="DNS-2" src="https://github.com/user-attachments/assets/97622af7-4630-48e9-8909-93d4a9474520" />
+<img width="1919" height="854" alt="DNS-3" src="https://github.com/user-attachments/assets/2131900b-33f4-4673-a848-a3c57a079693" />
+<img width="1917" height="861" alt="DNS-4" src="https://github.com/user-attachments/assets/d0a259d9-e7d4-42cf-bf80-f6fa609d72ec" />
+
 
 
 ## Technology Stack
