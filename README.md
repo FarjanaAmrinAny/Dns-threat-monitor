@@ -92,6 +92,7 @@ Automated testing
 Project Structure
 
 dns-threat-monitor/
+
 ├── dashboard.py
 ├── detect_dns.py
 ├── live_dns_capture.py
