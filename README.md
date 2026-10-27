@@ -92,7 +92,6 @@ Automated testing
 Project Structure
 
 dns-threat-monitor/
-
 ├── dashboard.py
 ├── detect_dns.py
 ├── live_dns_capture.py
@@ -105,6 +104,7 @@ dns-threat-monitor/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 
 The structure above describes the main project files; additional files may exist in the repository.
 
